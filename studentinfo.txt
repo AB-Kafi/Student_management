@@ -1,0 +1,20 @@
+{
+    "student": [
+        {
+            "name": "kafi",
+            "id": "152",
+            "section": "o2",
+            "course": [
+                {
+                    "cse": "445",
+                    "Course_section": "d"
+                },
+                {
+                    "cse": "666",
+                    "Course_section": "f"
+                }
+            ],
+            "status": "pending"
+        }
+    ]
+}
